@@ -12,4 +12,5 @@ This project demonstrates data cleaning and preparation techniques using MySQL. 
 - **Data Pruning:** Filtered out unresolvable null rows.
 
 ## Repository Files
-- `layoffs_data_cleaning.sql`: The complete script containing all data cleaning steps.
+- `layoffs_data_cleaning.sql`: Script covering staging, duplicate removal, standardization, null handling, and type conversion.
+- `layoffs_eda.sql`: Script covering exploratory data analysis, aggregations, trend analysis, ranking via CTEs/dense ranks, and rolling totals.
